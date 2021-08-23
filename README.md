@@ -1,6 +1,6 @@
-# arquitetura
+# arquitetura no Flutter
 
-A new Flutter project.
+Projeto para desenvolver o entendimento da arquitetura básica de uma aplicação em Flutter
 
 ## Getting Started
 
